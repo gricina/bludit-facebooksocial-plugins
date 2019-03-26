@@ -1,0 +1,29 @@
+{
+	"plugin-data":
+	{
+		"name": "Social Plugins Facebook",
+		"description": "See what your Facebook friends liked, shared, or commented on across the Web.<br>-Save Button;</br>-Like Button;</br>-Comments Plugin."
+	},
+	"fb-appId": "Facebook appId",
+	"fb-lang": "Language",
+	"fb-lang-form-help-block": "Changing the Language.",
+	"fb-save": "Save Button",
+	"fb-save-text": "The Save button lets people save items or services to a private list on Facebook, share it with friends, and receive relevant notifications. For example, a person can save an item of clothing, trip, or link that they're thinking about and go back to that list for future consumption, or get notified when that item or trip has a promotional deal. <a href='https://developers.facebook.com/docs/plugins/save' target='_blank'>Save Button - Social Plugins - Facebook for Developers</a>",
+	"fb-like-text": "A single click on the Like button will 'like' pieces of content on the web and share them on Facebook. You can also display a Share button next to the Like button to let people add a personal message and customize who they share with.",
+	"fb-comments-text": "The comments plugin lets people comment on content on your site using their Facebook account. People can choose to share their comment activity with their friends (and friends of their friends) on Facebook as well. The comments plugin also includes built-in moderation tools and social relevance ranking.",
+	"fb-comments": "Comments Plugin",
+	"fb-like": "Like Button",	
+	"fb-data-size": "Button Size",
+	"fb-large": "Large",
+	"fb-small": "Small",
+	"fb-width": "Width",
+	"fb-width-form-help-block": "The pixel width of the plugin",
+	"fb-data-layout": "Layout",
+	"fb-data-show-faces": "Show Friends' Faces",
+	"fb-data-share": "Include Share Button",
+	"fb-comments-data-numposts": "Number of Posts",
+	"fb-numposts-form-help-block": "The number of posts to display by default",
+	"enable-fb-on-pages": "Facebook on static",
+	"enable-fb-on-posts": "Facebook on published"
+	
+}
